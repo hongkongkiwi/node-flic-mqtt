@@ -1,0 +1,14 @@
+{
+  "name": "flic-mqtt",
+  "version": "1.0.0",
+  "description": "Simple app to publish button presses for flic.io to MQTT.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^1.10.0",
+  }
+}
